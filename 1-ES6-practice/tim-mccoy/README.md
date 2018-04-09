@@ -22,10 +22,10 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+I needed to covert 'const' into 'let' whenever a variable was given an updated value, such as within a 'for' loop. This also applies to allProducts and totalClicks, two variables that are constantly being updated.
 
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+In my opinion using template literal notation makes code cleaner and easier to read. Also in writing less code there's less possibility for errors.
