@@ -1,9 +1,9 @@
 ##### How did you determine which rules should be placed in each new CSS file?
 
-(Put your answer here)
+I referred to both the task instruction hints and the SMACSS.com literature on base, layout and module stylings
 
 ---
 
 ##### Did you do any refactoring of the existing CSS? If so, briefly explain what you did and why.
 
-(Put your answer here)
+No, I did not. Began investigation refactoring but did not feel I had a firm grasp on the idea
